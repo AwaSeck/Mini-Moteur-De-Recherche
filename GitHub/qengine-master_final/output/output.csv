@@ -1,0 +1,10 @@
+Nom du fichier de données: data/100K.nt
+Nom du dossier des requetes: data/STAR_ALL_workload.queryset
+Nombre de triplets RDF: 107338
+Nombre de requetes: 1200
+Temps de lecture des donnees: 501
+Temps de lecture des requetes: 295
+Temps de création du dictionnaire: 10233
+Temps de création des index: 11205
+Temps total d'évaluation du workload: 1231
+Temps total (du début à la fin du programme): 23469
